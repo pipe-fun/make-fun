@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "crates/pipe",
+    "crates/core",
+    "crates/web-api",
+    "crates/db-api",
+    "crates/status-protoc",
+    "crates/web2core",
+]
+
+[profile.release]
+lto = true

@@ -1,0 +1,18 @@
+[submodule ".\\crates\\pipe"]
+	path = .\\crates\\pipe
+	url = https://github.com/pipe-fun/pipe.git
+[submodule ".\\crates\\core"]
+	path = .\\crates\\core
+	url = https://github.com/pipe-fun/core.git
+[submodule ".\\crates\\web-api"]
+	path = .\\crates\\web-api
+	url = https://github.com/pipe-fun/web-api.git
+[submodule ".\\crates\\db-api"]
+	path = .\\crates\\db-api
+	url = https://github.com/pipe-fun/db-api.git
+[submodule ".\\crates\\status-protoc"]
+	path = .\\crates\\status-protoc
+	url = https://github.com/pipe-fun/status-protoc.git
+[submodule ".\\crates\\web2core"]
+	path = .\\crates\\web2core
+	url = https://github.com/pipe-fun/web2core.git
