@@ -20,6 +20,7 @@
 * ```cd make-fun```
 * ```cargo build --release```
 * ```cd crates/pipe```
+* ```cargo install wasm-pack```
 * ```wasm-pack build --release --target web --out-name wasm --out-dir static/```
 
 ### 依次运行(使用tmux等多终端软件)
